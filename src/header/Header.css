@@ -1,0 +1,84 @@
+.header {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #E9EBEB;
+}
+
+.start {
+    width: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.outercircle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.innercircle {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: #00B686;
+}
+
+.end {
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.bellicon {
+    display: flex;
+    justify-content: center;
+}
+
+.count {
+    position: relative;
+    color: white;
+    background-color: #F97777;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: -20px;
+    bottom: 10px;
+    font-weight: 600;
+    font-size: smaller;
+    padding: 8%;
+}
+
+.icon1 {
+    height: 30%;
+    margin-right: 20px;
+}
+
+.icon2 {
+    height: 30%;
+    margin-right: 20px;
+}
+
+.icon3 {
+    height: 30%;
+}
+
+.icon4 {
+    height: 30%;
+    width:10%;
+    margin-right: 20px;
+}
+
+
+.icon {
+    height: 50%;
+}
